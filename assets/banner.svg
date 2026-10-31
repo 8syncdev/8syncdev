@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Nguyễn Phương Anh Tú (Alex) — AI Team Lead, Founder of 8 Sync. Building autonomous AI agent systems for CRM, video and marketing.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07080d"/>
+      <stop offset="1" stop-color="#0d0b18"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#4F7CFF"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#4F7CFF" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="orbA"><stop offset="0" stop-color="#4F7CFF" stop-opacity="0.45"/><stop offset="1" stop-color="#4F7CFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbB"><stop offset="0" stop-color="#A855F7" stop-opacity="0.4"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbC"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.3"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="loop" d="M 790 110 H 1110 V 250 H 790 Z"/>
+    <style>
+      text { font-family: 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace; }
+      .drift1 { animation: d1 14s ease-in-out infinite alternate; }
+      .drift2 { animation: d2 18s ease-in-out infinite alternate; }
+      .drift3 { animation: d3 16s ease-in-out infinite alternate; }
+      @keyframes d1 { to { transform: translate(120px, 40px); } }
+      @keyframes d2 { to { transform: translate(-140px, -30px); } }
+      @keyframes d3 { to { transform: translate(60px, -50px); } }
+      .rise { opacity: 0; animation: rise .9s cubic-bezier(.2,.8,.2,1) forwards; }
+      .r1 { animation-delay: .1s } .r2 { animation-delay: .35s } .r3 { animation-delay: .6s } .r4 { animation-delay: .85s }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+      .node rect { fill: #11131f; stroke: #2a2f4a; stroke-width: 1.2; }
+      .node text { fill: #c9d1ff; font-size: 15px; font-weight: 600; letter-spacing: 1.5px; }
+      .n1 rect { animation: hl 4s linear infinite 0s; }
+      .n2 rect { animation: hl 4s linear infinite 1s; }
+      .n3 rect { animation: hl 4s linear infinite 2s; }
+      .n4 rect { animation: hl 4s linear infinite 3s; }
+      @keyframes hl { 0%, 22% { stroke: #22D3EE; fill: #10223a; } 26%, 100% { stroke: #2a2f4a; fill: #11131f; } }
+      .caret { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .chip rect { fill: #ffffff; fill-opacity: 0.05; stroke: #ffffff; stroke-opacity: 0.12; }
+      .chip text { fill: #aab3d6; font-size: 13px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <circle class="drift1" cx="220" cy="80" r="260" fill="url(#orbA)"/>
+  <circle class="drift2" cx="1000" cy="300" r="280" fill="url(#orbB)"/>
+  <circle class="drift3" cx="640" cy="360" r="200" fill="url(#orbC)"/>
+
+  <!-- left: identity -->
+  <g class="rise r1"><text x="64" y="92" class="mono" fill="#22D3EE" font-size="15">~/8syncdev $ whoami</text></g>
+  <g class="rise r2"><text x="62" y="150" fill="url(#name)" font-size="50" font-weight="800">Nguyễn Phương Anh Tú</text></g>
+  <g class="rise r3">
+    <text x="64" y="190" fill="#e8ebff" font-size="21" font-weight="600">AI Team Lead @ CloudGO · Founder, 8 Sync</text>
+    <text x="64" y="222" fill="#9aa3c7" font-size="17">Building autonomous AI agent systems for CRM, video &amp; marketing</text>
+    <rect class="caret" x="590" y="207" width="9" height="19" fill="#22D3EE"/>
+  </g>
+  <g class="rise r4">
+    <g class="chip" transform="translate(64 262)"><rect width="196" height="32" rx="16"/><text x="16" y="21">◆ NVIDIA Inception member</text></g>
+    <g class="chip" transform="translate(272 262)"><rect width="222" height="32" rx="16"/><text x="16" y="21">◆ 2 peer-reviewed papers (JTE)</text></g>
+    <g class="chip" transform="translate(506 262)"><rect width="168" height="32" rx="16"/><text x="16" y="21">◆ Ho Chi Minh City</text></g>
+  </g>
+
+  <!-- right: the agent loop -->
+  <text x="790" y="82" class="mono" fill="#6f78a3" font-size="13">agent.loop()  // every action is checked</text>
+  <use href="#loop" fill="none" stroke="url(#wire)" stroke-width="2" stroke-dasharray="6 6"/>
+  <circle r="6" fill="#22D3EE" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite"><mpath href="#loop"/></animateMotion>
+  </circle>
+  <circle r="3.5" fill="#A855F7" filter="url(#glow)">
+    <animateMotion dur="4s" begin="-2s" repeatCount="indefinite"><mpath href="#loop"/></animateMotion>
+  </circle>
+  <g class="node n1" transform="translate(735 88)"><rect width="110" height="44" rx="10"/><text x="55" y="28" text-anchor="middle">PLAN</text></g>
+  <g class="node n2" transform="translate(1055 88)"><rect width="110" height="44" rx="10"/><text x="55" y="28" text-anchor="middle">ACT</text></g>
+  <g class="node n3" transform="translate(1055 228)"><rect width="110" height="44" rx="10"/><text x="55" y="28" text-anchor="middle">VERIFY</text></g>
+  <g class="node n4" transform="translate(735 228)"><rect width="110" height="44" rx="10"/><text x="55" y="28" text-anchor="middle">SHIP</text></g>
+  <text x="950" y="176" text-anchor="middle" fill="#e8ebff" font-size="18" font-weight="700">AI Agents</text>
+  <text x="950" y="198" text-anchor="middle" class="mono" fill="#7f88b3" font-size="12">CRM · Video · Marketing</text>
+
+  <text x="1136" y="338" text-anchor="end" class="mono" fill="#4b5275" font-size="12">We teach you to learn, not to copy.</text>
+</svg>
