@@ -7,7 +7,7 @@
     <a href="https://www.tiktok.com/@8syncdev"><img src="https://img.shields.io/badge/TikTok-@8syncdev-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
     <a href="https://huggingface.co/alexdev159"><img src="https://img.shields.io/badge/Hugging%20Face-alexdev159-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
     <a href="https://orcid.org/0009-0005-9352-9353"><img src="https://img.shields.io/badge/ORCID-0009--0005--9352--9353-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-    <a href="https://8syncdev.com"><img src="https://img.shields.io/badge/8syncdev.com-4F7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://8syncdev.com"><img src="https://img.shields.io/badge/8syncdev.com-4CAF0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   </p>
 </div>
 
@@ -35,23 +35,23 @@ const alex = {
 ## 🌐 Live products
 
 <p>
-  <a href="https://8syncdev.com"><img src="https://img.shields.io/badge/8syncdev.com-hub-111827?style=flat-square" alt="8syncdev.com" /></a>
-  <a href="https://coding.8syncdev.com"><img src="https://img.shields.io/badge/coding.8syncdev.com-algorithm%20arena-4F7CFF?style=flat-square" alt="Coding" /></a>
-  <a href="https://course.8syncdev.com"><img src="https://img.shields.io/badge/course.8syncdev.com-courses-7C3AED?style=flat-square" alt="Courses" /></a>
-  <a href="https://news.8syncdev.com"><img src="https://img.shields.io/badge/news.8syncdev.com-AI%20news-0891B2?style=flat-square" alt="News" /></a>
-  <a href="https://zus.8syncdev.com"><img src="https://img.shields.io/badge/zus.8syncdev.com-AI%20IDE-22D3EE?style=flat-square" alt="ZUS" /></a>
-  <a href="https://tia.8syncdev.com"><img src="https://img.shields.io/badge/tia.8syncdev.com-decision%20API-A855F7?style=flat-square" alt="TIA" /></a>
+  <a href="https://8syncdev.com"><img src="https://img.shields.io/badge/8syncdev.com-hub-10141A?style=flat-square" alt="8syncdev.com" /></a>
+  <a href="https://coding.8syncdev.com"><img src="https://img.shields.io/badge/coding.8syncdev.com-algorithm%20arena-017FFD?style=flat-square" alt="Coding" /></a>
+  <a href="https://course.8syncdev.com"><img src="https://img.shields.io/badge/course.8syncdev.com-courses-4CAF0A?style=flat-square" alt="Courses" /></a>
+  <a href="https://news.8syncdev.com"><img src="https://img.shields.io/badge/news.8syncdev.com-AI%20news-0270CD?style=flat-square" alt="News" /></a>
+  <a href="https://zus.8syncdev.com"><img src="https://img.shields.io/badge/zus.8syncdev.com-AI%20IDE-4CAF0A?style=flat-square" alt="ZUS" /></a>
+  <a href="https://tia.8syncdev.com"><img src="https://img.shields.io/badge/tia.8syncdev.com-decision%20API-017FFD?style=flat-square" alt="TIA" /></a>
 </p>
 
 ## 📦 Open source
 
 | Repo | | |
 | --- | --- | --- |
-| [**8-Sync-Dev/8sync**](https://github.com/8-Sync-Dev/8sync) | Claude Code on autopilot, with rails. Windows · macOS · Linux | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/8sync?style=flat-square&color=4F7CFF) |
-| [**8-Sync-Dev/flash-term**](https://github.com/8-Sync-Dev/flash-term) | A Windows 11 terminal setup: WezTerm, CLI tools, dev runtimes, local GGUF server | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/flash-term?style=flat-square&color=4F7CFF) |
-| [**8-Sync-Dev/claude-desktop-linux**](https://github.com/8-Sync-Dev/claude-desktop-linux) | One-command installer for Claude Desktop on Linux | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/claude-desktop-linux?style=flat-square&color=4F7CFF) |
-| [**ollama-docker-web-application**](https://github.com/8syncdev/ollama-docker-web-application) | AI agent web app on local LLMs (Ollama + Docker) | ![stars](https://img.shields.io/github/stars/8syncdev/ollama-docker-web-application?style=flat-square&color=4F7CFF) |
-| [**edu-mobile-app-flet**](https://github.com/8syncdev/edu-mobile-app-flet) | Programming-courses mobile app in Python + Flet | ![stars](https://img.shields.io/github/stars/8syncdev/edu-mobile-app-flet?style=flat-square&color=4F7CFF) |
+| [**8-Sync-Dev/8sync**](https://github.com/8-Sync-Dev/8sync) | Claude Code on autopilot, with rails. Windows · macOS · Linux | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/8sync?style=flat-square&color=017FFD) |
+| [**8-Sync-Dev/flash-term**](https://github.com/8-Sync-Dev/flash-term) | A Windows 11 terminal setup: WezTerm, CLI tools, dev runtimes, local GGUF server | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/flash-term?style=flat-square&color=017FFD) |
+| [**8-Sync-Dev/claude-desktop-linux**](https://github.com/8-Sync-Dev/claude-desktop-linux) | One-command installer for Claude Desktop on Linux | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/claude-desktop-linux?style=flat-square&color=017FFD) |
+| [**ollama-docker-web-application**](https://github.com/8syncdev/ollama-docker-web-application) | AI agent web app on local LLMs (Ollama + Docker) | ![stars](https://img.shields.io/github/stars/8syncdev/ollama-docker-web-application?style=flat-square&color=017FFD) |
+| [**edu-mobile-app-flet**](https://github.com/8syncdev/edu-mobile-app-flet) | Programming-courses mobile app in Python + Flet | ![stars](https://img.shields.io/github/stars/8syncdev/edu-mobile-app-flet?style=flat-square&color=017FFD) |
 
 ## 📄 Research
 
