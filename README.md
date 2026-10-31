@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Nguyễn Phương Anh Tú (Alex) — AI Team Lead, Founder of 8 Sync" width="100%" />
+  <img src="assets/banner.svg" alt="Nguyễn Phương Anh Tú (Alex) — Founder of 8 Sync" width="100%" />
 
   <p>
     <a href="https://linkedin.com/in/8syncdev"><img src="https://img.shields.io/badge/LinkedIn-8syncdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,12 +13,13 @@
 
 ```ts
 const alex = {
-  role:     ["AI Team Lead @ CloudGO", "Founder @ 8 Sync"],
+  role:     "Founder @ 8 Sync",
   building: "autonomous AI agent systems for CRM, video & marketing",
   research: "2 peer-reviewed papers, Journal of Technical Education Science",
   teaching: "programming & AI to 1,000+ students since 2021",
   motto:    "We teach you to learn, not to copy.",
   contact:  "atus@8syncdev.com",
+  day_job:  "AI Team Lead @ CloudGO",
 };
 ```
 
